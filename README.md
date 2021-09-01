@@ -14,4 +14,4 @@
 Tuğçe Gökçeoğlu
 Büşra Çolak
 
-> Blockquotes *Bu Projede Bana Destek Olan Arkadaşıma Teşekkür Ederim.*
+> *Bu Projede Bana Destek Olan Arkadaşıma Teşekkür Ederim.*
